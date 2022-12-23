@@ -3,8 +3,9 @@
 ### Descrição
 Este código é um aplicativo em React, uma biblioteca JavaScript para criar interfaces de usuário. Ele importa vários componentes de um pacote chamado react-bootstrap e de outros arquivos locais, como imagens e componentes personalizados. O aplicativo tem uma barra de navegação, um carrossel de imagens e alguns componentes que exibem informações sobre a empresa, produtos e equipe, além de um componente de carrinho de compras e um rodapé. O aplicativo também usa o gerenciamento de estado com o hook useState do React para controlar o modal de pagamento.
 
-![ProjetoCompleto](/src/assets/projetocompleto.png)
-![FinalizarCompra](/src/assets/finalizarcompra.png)
+![projetocompleto](https://user-images.githubusercontent.com/98711190/209357023-748696b5-9052-4e07-a2cb-a00c59cafba6.png)
+![finalizarcompra](https://user-images.githubusercontent.com/98711190/209357061-d983e27a-1f02-488b-a749-397b234b88a5.png)
+
 
 Aqui está uma lista de tecnologias que foram usadas neste código:
 
